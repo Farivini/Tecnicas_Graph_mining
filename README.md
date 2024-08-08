@@ -1,4 +1,4 @@
-Aqui está um modelo de README para o seu projeto no GitHub:
+
 
 ---
 
